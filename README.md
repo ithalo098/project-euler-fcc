@@ -1,14 +1,13 @@
-# Project Euler - freeCodeCamp
+# Atividade - 30/06
 
-Atividade: resolver as questões **4, 5, 7, 15 e 36** do Project Euler no freeCodeCamp.
-
+Atividade: resolver as questões **4, 5, 7, 15 e 36**
 ## Questões resolvidas
 
-- Questão 4: Largest palindrome product
-- Questão 5: Smallest multiple
-- Questão 7: 10001st prime
-- Questão 15: Lattice paths
-- Questão 36: Double-base palindromes
+- Questão 4
+- Questão 5
+- Questão 7
+- Questão 15
+- Questão 36
 
 ## Como executar
 
