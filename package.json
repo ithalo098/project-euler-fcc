@@ -1,0 +1,11 @@
+{
+  "name": "project-euler-fcc",
+  "version": "1.0.0",
+  "description": "Soluções dos problemas 4, 5, 7, 15 e 36 do Project Euler/freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
