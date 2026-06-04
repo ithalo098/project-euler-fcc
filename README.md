@@ -41,8 +41,7 @@ git init
 git add .
 git commit -m "Resolução das questões 4, 5, 7, 15 e 36 do Project Euler"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/project-euler-fcc.git
+git remote add origin (https://github.com/ithalo098/project-euler-fcc)
 git push -u origin main
 ```
 
-Troque `SEU-USUARIO` pelo seu usuário do GitHub.
